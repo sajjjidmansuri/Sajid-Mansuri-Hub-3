@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Dental Studio",
+  "description": "Premium dental clinic and professional dentist portfolio website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
